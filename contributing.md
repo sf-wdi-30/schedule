@@ -1,4 +1,4 @@
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> Contributing to SF-WDI-30 Modules
+# <img src="https://butt.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> Contributing to SF-WDI-30 Modules
 
 ## Weekly Folder Structure
 
@@ -7,18 +7,18 @@
   | day-01
   | day-02
     | drill
-      - readme.md
+      - README.md
       - solutions.md
     | module-01
-      - readme.md
+      - README.md
       - solutions.md
     | module-02
-      - readme.md
+      - README.md
       - solutions.md
   | day-03
   | day-04
   | day-05
-  - readme.md
+  - README.md
 ```
 
 ## Folder & File Names
@@ -26,7 +26,7 @@
 * Numbers in folder and file names should be zero-padded (e.g. `week-01` instead of `week-1`)
 * Folder and file names should be all lowercase and dash-separated
 * Folder and file names should only contain alpha-numerics [UTF-8] [0-9] [a-z]
-* Readmes should be lowercase and should always be markdown, with a `.md` extension: `readme.md`
+* README files should be lowercase and should always be markdown, with a `.md` extension: `README.md`
 
 ## Default File Names
 
@@ -51,16 +51,16 @@
 
 ## Drill Challenges
 
-* Drills are included in the daily `readme`.
+* Drills are included in the daily `README`.
 * Solutions to drills are included in the drill's `solutions.md` file.
-* Drills may use external projects which are linked to via the `readme`.
+* Drills may use external projects which are linked to via the `README`.
 
 ## Homework
 
 * Instructor assigned to `module-02` is always responsible for that night's homework.
 * Homework should always live in a separate repo in `sf-wdi-24` and should be linked to from weekly schedule.
 * Every homework repo should have a `solution` branch.
-* Every homework repo should have a `readme` including "Getting Started" and "Submission" instructions:
+* Every homework repo should have a `README` including "Getting Started" and "Submission" instructions:
 
 > **Getting Started**
 > * Fork this repo, and clone it into your `develop` folder on your local machine.
