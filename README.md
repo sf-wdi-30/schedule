@@ -15,7 +15,7 @@
   <tr>
     <td><strong>Drills</strong></td>
     <td> <!-- Week 1 - Monday Drill -->
-     Orientationn (team)
+     Orientation (team)
     </td>
     <td> <!-- Week 1 - Tuesday Drill -->
      Kyrel (Ben)
@@ -33,8 +33,8 @@
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 1 - Monday Morning Module -->
-      Orientation (team)<br>
-      -----------<br>
+      Orientation (team)
+      <hr>
       Assessment
     </td>
     <td> <!-- Week 1 - Tuesday Morning Module -->
@@ -44,14 +44,12 @@
       Array Methods (Justin)
     </td>
     <td> <!-- Week 1 - Thursday Morning Module -->
-      Outcomes<br>
-      -----------<br>
+      Outcomes
+     <hr>
       JQuery & The DOM (Justin)
     </td>
     <td> <!-- Week 1 - Friday Morning Module -->
-      Review <br>
-      -----------<br>
-      Assessment
+      Review <hr> Assessment
 
     </td>
   </tr>
