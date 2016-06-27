@@ -33,9 +33,7 @@
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 1 - Monday Morning Module -->
-      Orientation (team)
-      <hr>
-      Assessment
+      Orientation (team) <hr> Assessment
     </td>
     <td> <!-- Week 1 - Tuesday Morning Module -->
       Control Flow (Ben)
@@ -44,9 +42,7 @@
       Array Methods (Justin)
     </td>
     <td> <!-- Week 1 - Thursday Morning Module -->
-      Outcomes
-     <hr>
-      JQuery & The DOM (Justin)
+      Outcomes <hr> JQuery & The DOM (Justin)
     </td>
     <td> <!-- Week 1 - Friday Morning Module -->
       Review <hr> Assessment
