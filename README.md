@@ -52,7 +52,7 @@
   <tr>
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 1 - Monday Afternoon Module -->
-      Command Line / GitHub Workflow (Ben)
+      <a href="https://github.com/sf-wdi-30/terminal-basics-navigating-the-filesystem">Command Line / GitHub Workflow (Ben)</a>
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon Module -->
       Functions (Nathan)
