@@ -70,7 +70,7 @@
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 1 - Monday Homework -->
-      Command Line Mystery (Justin)
+      <a href="https://github.com/sf-wdi-30/command-line-mystery">Command Line Mystery</a> (Justin)
     </td>
     <td> <!-- Week 1 - Tuesday Homework -->
       JS Primitives & Objects (Justin)
