@@ -74,7 +74,7 @@
       <a href="https://github.com/sf-wdi-30/command-line-mystery">Command Line Mystery</a> (Justin)
     </td>
     <td> <!-- Week 1 - Tuesday Homework -->
-      JS Primitives & Objects (Justin)
+      <a href="https://github.com/sf-wdi-30/js-object-primitives">JS Primitives & Objects</a> (Justin)
     </td>
     <td> <!-- Week 1 - Wednesday Homework -->
       Function Practice & DOM Preview (Justin)
