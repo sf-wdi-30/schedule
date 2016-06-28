@@ -36,7 +36,7 @@
       Orientation (team) <hr> <a href="https://github.com/sf-wdi-30/assessments-30/tree/master/day-01">Assessment</a> - <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/assessments/27-28/day-01/solutions.md">Solution</a>
     </td>
     <td> <!-- Week 1 - Tuesday Morning Module -->
-      Control Flow (Ben)
+      <a href="https://github.com/sf-wdi-30/js-control-flow" target="_blank">Control Flow (Ben)</a>
     </td>
     <td> <!-- Week 1 - Wednesday Morning Module -->
       Array Methods (Justin)
