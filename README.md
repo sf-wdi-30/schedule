@@ -18,7 +18,7 @@
      Orientation (team)
     </td>
     <td> <!-- Week 1 - Tuesday Drill -->
-     Kyrel (Ben)
+     <a href="https://github.com/sf-wdi-30/kyrel" target="_blank">Kyrel (Ben)</a>
     </td>
     <td> <!-- Week 1 - Wednesday Drill -->
       Kyrel (Ben)
