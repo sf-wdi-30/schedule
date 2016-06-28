@@ -33,7 +33,7 @@
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 1 - Monday Morning Module -->
-      Orientation (team) <hr> Assessment
+      Orientation (team) <hr> <a href="https://github.com/sf-wdi-30/assessments-30/tree/master/day-01">Assessment</a> - <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/assessments/27-28/day-01/solutions.md">Solution</a>
     </td>
     <td> <!-- Week 1 - Tuesday Morning Module -->
       Control Flow (Ben)
