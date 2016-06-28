@@ -55,7 +55,8 @@
       <a href="https://github.com/sf-wdi-30/terminal-basics-navigating-the-filesystem">Command Line / GitHub Workflow (Ben)</a>
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon Module -->
-      Functions (Nathan)
+      <a href="https://github.com/sf-wdi-30/js-functions-and-scope">Functions & Scope</a>
+      (Nathan)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon Module -->
       Bootstrap (Ben)
