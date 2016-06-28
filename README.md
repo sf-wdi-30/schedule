@@ -81,6 +81,8 @@
     </td>
     <td> <!-- Week 1 - Thursday Homework -->
       Self-Assessment & JQuery Practice (Ben)
+      <br>
+      <a href="https://github.com/sf-wdi-30/problem-set-js-basics">Problem Set Due</a>
     </td>
     <td> <!-- Week 1 - Friday -->
       Laundry-Lab & Iterators (Justin)
