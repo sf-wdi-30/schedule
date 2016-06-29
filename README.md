@@ -77,7 +77,7 @@
       <a href="https://github.com/sf-wdi-30/js-object-primitives">JS Primitives & Objects</a> (Justin)
     </td>
     <td> <!-- Week 1 - Wednesday Homework -->
-      Function Practice & DOM Preview (Justin)
+      <a href="https://github.com/sf-wdi-30/schedule/blob/master/homework/week1.md#wednesday-day-3">Function Practice & DOM Preview</a> (Justin)
     </td>
     <td> <!-- Week 1 - Thursday Homework -->
       Self-Assessment & JQuery Practice (Ben)
