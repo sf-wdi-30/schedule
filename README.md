@@ -39,7 +39,7 @@
       <a href="https://github.com/sf-wdi-30/js-control-flow" target="_blank">Control Flow (Ben)</a>
     </td>
     <td> <!-- Week 1 - Wednesday Morning Module -->
-      Array Methods (Justin)
+      <a href="https://github.com/sf-wdi-30/js-array-methods">Array Methods (Justin)</a>
     </td>
     <td> <!-- Week 1 - Thursday Morning Module -->
       Outcomes <hr> JQuery & The DOM (Justin)
