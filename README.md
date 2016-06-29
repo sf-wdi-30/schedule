@@ -59,7 +59,7 @@
       (Nathan)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon Module -->
-      Bootstrap (Ben)
+      <a href="https://github.com/sf-wdi-30/bootstrap>Bootstrap (Ben)</a>
     </td>
     <td> <!-- Week 1 - Thursday Afternoon Module -->
       DOM Events (Justin)
