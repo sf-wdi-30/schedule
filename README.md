@@ -42,7 +42,7 @@
       <a href="https://github.com/sf-wdi-30/js-array-methods">Array Methods (Justin)</a>
     </td>
     <td> <!-- Week 1 - Thursday Morning Module -->
-      Outcomes <hr> JQuery & The DOM (Justin)
+      Outcomes <hr> <a href="https://github.com/sf-wdi-30/js-intro-jquery-and-dom/blob/master/README.md">JQuery & The DOM</a> (Justin)
     </td>
     <td> <!-- Week 1 - Friday Morning Module -->
       Review <hr> Assessment
