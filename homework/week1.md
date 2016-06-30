@@ -12,10 +12,10 @@
 
 ## Thursday, Day 4
 1. **Reading** *15-20 mins* These are some great resources and documentation regarding how to use JQuery:
-
-   [JQuery Documentation](http://api.jquery.com/) |
-   [JQuery Learning Center](https://learn.jquery.com/) |
-   [How JQuery Works](https://learn.jquery.com/about-jquery/how-jquery-works/)
+   
+   [How JQuery Works](https://learn.jquery.com/about-jquery/how-jquery-works/) |
+   [JQuery Documentation](http://api.jquery.com/) 
+   
 
 2. **Activity** *45-60 mins* If you haven't already, complete your exercises from today's lectures.  Once you have done so, you can go [here](http://try.jquery.com/) to try some more guided exercises to work on your knowledge of JQuery and the DOM.  There are six sections with many different exercises.  The first four sections touch upon the different concepts you explored today regarding JQuery and the DOM.  Work in as many sections as needed to bolster your knowledge!!
 
