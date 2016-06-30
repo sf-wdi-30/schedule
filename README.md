@@ -80,7 +80,7 @@
       <a href="https://github.com/sf-wdi-30/schedule/blob/master/homework/week1.md#wednesday-day-3">Function Practice & DOM Preview</a> (Justin)
     </td>
     <td> <!-- Week 1 - Thursday Homework -->
-      Self-Assessment & <a href="https://github.com/sf-wdi-30/schedule/blob/master/homework/week1.md#thursday-day-4">JQuery Practice (Ben)</>
+      <a href="https://github.com/sf-wdi-30/schedule/blob/master/homework/week1.md#thursday-day-4">JQuery Practice (Ben)</>
       <br>
       <a href="https://github.com/sf-wdi-30/problem-set-js-basics">Problem Set Due</a>
     </td>
