@@ -65,6 +65,7 @@
       <a href="https://github.com/sf-wdi-30/js-jquery-event-binding">DOM Events</a>  + <a href="https://github.com/sf-wdi-30/events_lab">LAB</a> (Justin)
     </td>
     <td> <!-- Week 1 - Friday Afternoon / Weekend Lab -->
+      <a href="https://github.com/sf-wdi-30/mouse-a-sketch">Mouse-A-Sketch Lab</a></br>
       Weekend Lab: <a href="https://github.com/sf-wdi-30/tic-tac-toe/blob/master/README.md">Tic-Tac-Toe</a> (Justin)
     </td>
   </tr>
