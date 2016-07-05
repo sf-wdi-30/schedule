@@ -18,7 +18,7 @@
       HAPPY 4TH OF JULY!!!!
     </td>
     <td> <!-- Week 2 - Tuesday Drill -->
-      <a href="https://github.com/sf-wdi-30/meet-mr-fox-json-to-html">JSON & HTML Strings</a>(Nathan)
+      <a href="https://github.com/sf-wdi-30/meet-mr-fox-json-to-html">JSON & HTML Strings</a> (NA)
     </td>
     <td> <!-- Week 2 - Wednesday Drill -->
       Handlebars Templating
@@ -36,7 +36,7 @@
       HAPPY 4TH OF JULY!!!!
     </td>
     <td> <!-- Week 2 - Tuesday Morning Module -->
-      <a href="https://github.com/sf-wdi-30/html-forms-1">Query Strings / HTML Forms</a> & <a href="https://github.com/sf-wdi-30/html-forms-lab">Lab</a> (Nathan/Ben)
+      <a href="https://github.com/sf-wdi-30/html-forms-1">Query Strings / HTML Forms</a> & <a href="https://github.com/sf-wdi-30/html-forms-lab">Lab</a> (BM)
     </td>
     <td> <!-- Week 2 - Wednesday Morning Module -->
       Geoquakes Lab
@@ -55,7 +55,7 @@
       HAPPY 4TH OF JULY!!!
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon Module -->
-      <a href="https://github.com/sf-wdi-30/js-intro-ajax">Intro AJAX: Giphy Lab</a> (Justin)
+      <a href="https://github.com/sf-wdi-30/js-intro-ajax">Intro AJAX: Giphy Lab</a> (JC)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon Module -->
       OOP
@@ -75,7 +75,7 @@
       HAPPY 4TH OF JULY!!!
     </td>
     <td> <!-- Week 2 - Tuesday Homework -->
-      Spotify Search/ Query Param & Jquery form submit reading (Ben)
+      Spotify Search/ Query Param & Jquery form submit reading (BM)
     </td>
     <td> <!-- Week 2 - Wednesday Homework -->
       OOP Prep
