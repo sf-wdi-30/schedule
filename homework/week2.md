@@ -23,7 +23,7 @@ Please use any remaining time to complete and review the morning/afternoon exerc
 
 1. Re-read the info in [HTML Forms](https://github.com/sf-wdi-30/html-forms-1).
 2. If you have more time, make sure to take another look at the [Giphy/AJAX Lab](https://github.com/sf-wdi-30/giffaw) and keep working on it. - You can also take a look at the [solution branches](https://github.com/sf-wdi-30/giffaw/tree/solution).
-3. Do this [Spotify Search Lab](https://github.com/sf-wdi-30/spotify-search) and get more experience with AJAX and forms.  You'll be building a search tool that uses the Spotify API!
+
 
 
 
