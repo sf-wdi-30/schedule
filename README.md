@@ -75,7 +75,7 @@
       HAPPY 4TH OF JULY!!!
     </td>
     <td> <!-- Week 2 - Tuesday Homework -->
-      Spotify Search/ Query Param & Jquery form submit reading (BM)
+      <a href="https://github.com/sf-wdi-30/schedule/blob/master/homework/week2.md">Spotify Search/ Query Param & Jquery form submit reading</a> (BM)
     </td>
     <td> <!-- Week 2 - Wednesday Homework -->
       OOP Prep
