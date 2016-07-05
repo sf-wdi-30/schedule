@@ -18,7 +18,7 @@
       HAPPY 4TH OF JULY!!!!
     </td>
     <td> <!-- Week 2 - Tuesday Drill -->
-      JSON & HTML Strings
+      <a href="https://github.com/sf-wdi-30/meet-mr-fox-json-to-html">JSON & HTML Strings</a>
     </td>
     <td> <!-- Week 2 - Wednesday Drill -->
       Handlebars Templating
