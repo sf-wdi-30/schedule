@@ -36,7 +36,7 @@
       HAPPY 4TH OF JULY!!!!
     </td>
     <td> <!-- Week 2 - Tuesday Morning Module -->
-      Query Strings / HTML Forms & Lab 
+      <a href="https://github.com/sf-wdi-30/html-forms-1">Query Strings / HTML Forms</a> & <a href="https://github.com/sf-wdi-30/html-forms-lab">Lab</a> 
     </td>
     <td> <!-- Week 2 - Wednesday Morning Module -->
       Geoquakes Lab
