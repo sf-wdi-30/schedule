@@ -55,7 +55,7 @@
       HAPPY 4TH OF JULY!!!
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon Module -->
-      Intro AJAX: Giphy Lab (Justin)
+      <a href="https://github.com/sf-wdi-30/js-intro-ajax">Intro AJAX: Giphy Lab</a> (Justin)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon Module -->
       OOP
