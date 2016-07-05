@@ -82,6 +82,7 @@
     </td>
     <td> <!-- Week 2 - Thursday Homework -->
       Game Prep w/ OOP
+      <a href="https://github.com/sf-wdi-30/problem-set-js-objects">Problem Set Due</a>
     </td>
     <td> <!-- Week 2 - Friday -->
       Project 0
