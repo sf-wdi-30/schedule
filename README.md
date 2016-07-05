@@ -2,6 +2,93 @@
 
 [How to request a personal Code Review](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md)
 
+## Week 2 - Working with Objects
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 2 - Monday Drill -->
+      HAPPY 4TH OF JULY!!!!
+    </td>
+    <td> <!-- Week 2 - Tuesday Drill -->
+      JSON & HTML Strings
+    </td>
+    <td> <!-- Week 2 - Wednesday Drill -->
+      Handlebars Templating
+    </td>
+    <td> <!-- Week 2 - Thursday Drill -->
+      Binary search
+    </td>
+    <td> <!-- Week 2 - Friday Drill -->
+      OOP
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 2 - Monday Morning Module -->
+      HAPPY 4TH OF JULY!!!!
+    </td>
+    <td> <!-- Week 2 - Tuesday Morning Module -->
+      Query Strings / HTML Forms & Lab 
+    </td>
+    <td> <!-- Week 2 - Wednesday Morning Module -->
+      Geoquakes Lab
+    </td>
+    <td> <!-- Week 2 - Thursday Morning Module -->
+      Outcomes <hr>
+      Assessment
+    </td>
+    <td> <!-- Week 2 - Friday Morning Module -->
+      OOP Constructors
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 2 - Monday Afternoon Module -->
+      HAPPY 4TH OF JULY!!!
+    </td>
+    <td> <!-- Week 2 - Tuesday Afternoon Module -->
+      Intro AJAX: Giphy Lab
+    </td>
+    <td> <!-- Week 2 - Wednesday Afternoon Module -->
+      OOP
+    </td>
+    <td> <!-- Week 2 - Thursday Afternoon Module -->
+      JQuery Refresh & Review
+    </td>
+    <td> <!-- Week 2 - Friday Afternoon / Weekend Lab -->
+      OOP & the Web & 
+      WLab: 
+      Project 0
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 2 - Monday Homework -->
+      HAPPY 4TH OF JULY!!!
+    </td>
+    <td> <!-- Week 2 - Tuesday Homework -->
+      Spotify Search/ Query Param & Jquery form submit reading
+    </td>
+    <td> <!-- Week 2 - Wednesday Homework -->
+      OOP Prep
+    </td>
+    <td> <!-- Week 2 - Thursday Homework -->
+      Game Prep w/ OOP
+    </td>
+    <td> <!-- Week 2 - Friday -->
+      Project 0
+    </td>
+  </tr>
+</table>
+
 ## Week 1 - Controlling the DOM  
 <table>
   <tr>
