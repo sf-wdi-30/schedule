@@ -21,7 +21,8 @@
       <a href="https://github.com/sf-wdi-30/meet-mr-fox-json-to-html">JSON & HTML Strings</a> (NA)
     </td>
     <td> <!-- Week 2 - Wednesday Drill -->
-      Handlebars (NA)
+      <a href="http://handlebarsjs.com/">Handlebars</a> & <a href="https://github.com/sf-wdi-30/json-to-html-with-mr-fox/branches">Mr. Fox Demo</a>
+      (NA)
     </td>
     <td> <!-- Week 2 - Thursday Drill -->
       Binary search
