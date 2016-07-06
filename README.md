@@ -59,7 +59,7 @@
       <a href="https://github.com/sf-wdi-30/js-intro-ajax">Intro AJAX: Giphy Lab</a> (JC)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon Module -->
-      OOP (JC)
+      <a href="https://github.com/sf-wdi-30/js-oop-flowers">OOP</a> (JC)
     </td>
     <td> <!-- Week 2 - Thursday Afternoon Module -->
       JQuery Refresh & Review
