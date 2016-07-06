@@ -21,7 +21,7 @@
       <a href="https://github.com/sf-wdi-30/meet-mr-fox-json-to-html">JSON & HTML Strings</a> (NA)
     </td>
     <td> <!-- Week 2 - Wednesday Drill -->
-      Handlebars Templating
+      JQuery/AJAX Review (NA)
     </td>
     <td> <!-- Week 2 - Thursday Drill -->
       Binary search
@@ -39,7 +39,7 @@
       <a href="https://github.com/sf-wdi-30/html-forms-1">Query Strings / HTML Forms</a> & <a href="https://github.com/sf-wdi-30/html-forms-lab">Lab</a> (BM)
     </td>
     <td> <!-- Week 2 - Wednesday Morning Module -->
-      Geoquakes Lab
+      <a href="https://github.com/sf-wdi-30/geoquakes">Geoquakes Lab</a> (BM)
     </td>
     <td> <!-- Week 2 - Thursday Morning Module -->
       Outcomes <hr>
@@ -58,7 +58,7 @@
       <a href="https://github.com/sf-wdi-30/js-intro-ajax">Intro AJAX: Giphy Lab</a> (JC)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon Module -->
-      OOP
+      OOP (JC)
     </td>
     <td> <!-- Week 2 - Thursday Afternoon Module -->
       JQuery Refresh & Review
@@ -78,7 +78,7 @@
       <a href="https://github.com/sf-wdi-30/schedule/blob/master/homework/week2.md">Query Param & JQuery form submit reading</a> (BM)
     </td>
     <td> <!-- Week 2 - Wednesday Homework -->
-      OOP Prep
+      OOP Prep (JC)
     </td>
     <td> <!-- Week 2 - Thursday Homework -->
       Game Prep w/ OOP
