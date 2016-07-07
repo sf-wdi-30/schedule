@@ -25,7 +25,7 @@
       (NA)
     </td>
     <td> <!-- Week 2 - Thursday Drill -->
-      Binary search
+      <a href="https://github.com/sf-wdi-30/js-algorithms-drills/tree/master/binary-search">Binary search</a>
     </td>
     <td> <!-- Week 2 - Friday Drill -->
       OOP
