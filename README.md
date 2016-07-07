@@ -79,7 +79,7 @@
       <a href="https://github.com/sf-wdi-30/schedule/blob/master/homework/week2.md">Query Param & JQuery form submit reading</a> (BM)
     </td>
     <td> <!-- Week 2 - Wednesday Homework -->
-      OOP Prep (JC)
+      Finish labs and Flower methods!
     </td>
     <td> <!-- Week 2 - Thursday Homework -->
       Game Prep w/ OOP
