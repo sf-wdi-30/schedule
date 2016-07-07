@@ -62,7 +62,7 @@
       <a href="https://github.com/sf-wdi-30/js-oop-flowers">OOP</a> (JC)
     </td>
     <td> <!-- Week 2 - Thursday Afternoon Module -->
-      JQuery Refresh & Review
+      <a href="https://github.com/sf-wdi-30/ajax-4x-epic-combo-challenge">Epic Ajax Challenge</a>
     </td>
     <td> <!-- Week 2 - Friday Afternoon / Weekend Lab -->
       OOP & the Web & 
