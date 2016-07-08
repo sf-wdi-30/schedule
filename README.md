@@ -28,7 +28,7 @@
       <a href="https://github.com/sf-wdi-30/js-algorithms-drills/tree/master/binary-search">Binary search</a>
     </td>
     <td> <!-- Week 2 - Friday Drill -->
-      OOP
+      <a href="https://github.com/sf-wdi-30/js-oop-flowers/blob/master/READMEPT2.md">OOP</a>
     </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@
       Assessment
     </td>
     <td> <!-- Week 2 - Friday Morning Module -->
-      OOP Constructors
+      <a href="https://github.com/sf-wdi-30/js-oop-flowers/blob/master/READMEPT2.md">OOP Constructors</a>
     </td>
   </tr>
   <tr>
