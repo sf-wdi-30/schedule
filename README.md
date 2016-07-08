@@ -86,7 +86,7 @@
       <a href="https://github.com/sf-wdi-30/problem-set-js-objects">Problem Set Due</a>
     </td>
     <td> <!-- Week 2 - Friday -->
-      Project 0
+      <a href="https://github.com/sf-wdi-30/project-00">Project 0</a>
     </td>
   </tr>
 </table>
