@@ -66,8 +66,8 @@
     </td>
     <td> <!-- Week 2 - Friday Afternoon / Weekend Lab -->
       OOP & the Web & 
-      WLab: 
-      Project 0
+      <a href="https://github.com/sf-wdi-30/project-00">WLab: 
+      Project 0 </a>
     </td>
   </tr>
   <tr>
