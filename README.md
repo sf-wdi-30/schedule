@@ -2,6 +2,137 @@
 
 [How to request a personal Code Review](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md)
 
+
+## Week 3 - Intro to Express & REST
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 3 - Monday Drill -->
+      Project 0 Debrief 
+      (team)
+    </td>
+    <td> <!-- Week 3 - Tuesday Drill -->
+      Science Fair 
+      (team)
+    </td>
+    <td> <!-- Week 3 - Wednesday Drill -->
+      <!--<a href="">-->
+      Bubble Sort 
+      <!--</a>-->
+      (BM)
+    </td>
+    <td> <!-- Week 3 - Thursday Drill -->
+      <!--<a href="">-->
+      Merge Sort 
+      <!--</a>-->
+      (JC)
+    </td>
+    <td> <!-- Week 3 - Friday Drill -->
+      <!--<a href="">-->
+      Big O 
+      <!--</a>-->
+      (JC)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 3 - Monday Morning Module -->
+      Project 0 Clinic 
+      (team)
+    </td>
+    <td> <!-- Week 3 - Tuesday Morning Module -->
+      <!--<a href="">-->
+      Intro to Express 
+      <!--</a>-->
+      (BM)
+    </td>
+    <td> <!-- Week 3 - Wednesday Morning Module -->
+      <!--<a href="">-->
+      Intro to REST & ToDo Lab 
+      <!--</a> -->
+      (BM & NA)
+    </td>
+    <td> <!-- Week 3 - Thursday Morning Module -->
+      Outcomes <hr>
+      DIR Power Hour 
+      (MC)
+    </td>
+    <td> <!-- Week 3 - Friday Morning Module -->
+      <!--<a href="">-->
+      Mongoose 
+      <!--</a>-->
+      (JC & BM)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 3 - Monday Afternoon Module -->
+      <a href="https://github.com/sf-wdi-30/game-code-review">
+      Beautiful Code
+      </a>
+      (NA)
+    </td>
+    <td> <!-- Week 3 - Tuesday Afternoon Module -->
+      <!--<a href="">-->
+      Express & Query Params
+      <!--</a>-->
+      (JC)
+    </td>
+    <td> <!-- Week 3 - Wednesday Afternoon Module -->
+      <!--<a href="">-->
+      Intro to Mongoose
+      <!--</a>)-->
+      (JC)
+    </td>
+    <td> <!-- Week 3 - Thursday Afternoon Module -->
+      <!--<a href="">-->
+      Mongoose Relationships
+      <!--</a>-->
+      (BM)
+    </td>
+    <td> <!-- Week 3 - Friday Afternoon / Weekend Lab -->
+      <!--<a href=""> -->
+      Weekend Lab 
+      <!--</a>-->
+      (NA)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 3 - Monday Homework -->
+      Racing Game Refactor
+    </td>
+    <td> <!-- Week 2 - Tuesday Homework -->
+      <!--<a href="">-->
+      REST Reading & Exercises
+      <hr>
+      Mongoose Reading
+      <!--</a>-->
+    </td>
+    <td> <!-- Week 3 - Wednesday Homework -->
+      Review Prep & Mongoose Exercises
+    </td>
+    <td> <!-- Week 3 - Thursday Homework -->
+     <!--<a href="">-->
+      CRUD & Query Method Reading
+      <!--</a>-->
+    </td>
+    <td> <!-- Week 3 - Friday -->
+      <!--<a href="">-->
+      Weekend Lab
+      <!--</a>-->
+    </td>
+  </tr>
+</table>
+
 ## Week 2 - Working with Objects
 <table>
   <tr>
