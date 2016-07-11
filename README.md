@@ -108,7 +108,7 @@
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 3 - Monday Homework -->
-      Racing Game Refactor
+      Racing Game Refactor & <a href="https://github.com/sf-wdi-30/schedule/blob/master/homework/week3.md#monday">HTTP Reading</a>
     </td>
     <td> <!-- Week 2 - Tuesday Homework -->
       <!--<a href="">-->
