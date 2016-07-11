@@ -81,9 +81,9 @@
       (NA)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon Module -->
-      <a href="">
+      <!--<a href="">-->
       Express & Query Params
-      </a>
+      <!--</a>-->
       (JC)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon Module -->
