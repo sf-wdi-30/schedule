@@ -116,7 +116,9 @@
       REST Reading & Exercises
       </a>
       <hr>
+      <a href="https://github.com/sf-wdi-30/schedule/blob/master/homework/week3.md#tuesday">
       Mongoose Reading
+      </a>
       <!--</a>-->
     </td>
     <td> <!-- Week 3 - Wednesday Homework -->
