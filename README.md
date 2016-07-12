@@ -49,9 +49,9 @@
       (team)
     </td>
     <td> <!-- Week 3 - Tuesday Morning Module -->
-      <!--<a href="">-->
+      <a href="https://github.com/sf-wdi-30/js-intro-express">
       Intro to Express 
-      <!--</a>-->
+      </a>
       (BM)
     </td>
     <td> <!-- Week 3 - Wednesday Morning Module -->
