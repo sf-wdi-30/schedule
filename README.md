@@ -112,7 +112,9 @@
     </td>
     <td> <!-- Week 2 - Tuesday Homework -->
       <!--<a href="">-->
+      <a href="https://github.com/sf-wdi-30/schedule/blob/master/homework/week3.md#tuesday">
       REST Reading & Exercises
+      </a>
       <hr>
       Mongoose Reading
       <!--</a>-->
