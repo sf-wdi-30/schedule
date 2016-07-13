@@ -89,7 +89,7 @@
     <td> <!-- Week 3 - Wednesday Afternoon Module -->
       <a href="https://github.com/sf-wdi-30/js-intro-mongoDB">
       Intro to Mongoose
-      </a>)
+      </a>
       (JC)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon Module -->
