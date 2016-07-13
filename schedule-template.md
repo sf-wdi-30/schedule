@@ -1235,3 +1235,129 @@
     </td>
   </tr>
 </table>
+
+<!--Template with Thursday Outcomes -->
+
+## Week # - TOPIC
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week # - Monday Drill -->
+      <!--<a href="">-->
+      DRILL TITLE
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Tuesday Drill -->
+      <!--<a href="">-->
+      DRILL TITLE
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Wednesday Drill -->
+      <!--<a href="">-->
+      DRILL TITLE
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Thursday Drill -->
+      <!--<a href="">-->
+      DRILL TITLE
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Friday Drill -->
+      <!--<a href="">-->
+      DRILL TITLE
+      <!--</a>-->
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week # - Monday Morning Module -->
+      <!--<a href="">-->
+      LAB TITLE
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Tuesday Morning Module -->
+      <!--<a href="">-->
+      LAB TITLE
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Wednesday Morning Module -->
+      <!--<a href="">-->
+      LAB TITLE
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Thursday Morning Module -->
+      Outcomes <hr>
+      DIR Power Hour 
+    </td>
+    <td> <!-- Week # - Friday Morning Module -->
+      <!--<a href="">-->
+      LAB TITLE 
+      <!--</a>-->
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week # - Monday Afternoon Module -->
+      <!--<a href="">-->
+      LAB TITLE
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Tuesday Afternoon Module -->
+      <!--<a href="">-->
+      LAB TITLE
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Wednesday Afternoon Module -->
+      <!--<a href="">-->
+      LAB TITLE
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Thursday Afternoon Module -->
+      <!--<a href="">-->
+      LAB TITLE
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Friday Afternoon / Weekend Lab -->
+      <!--<a href=""> -->
+      Weekend Lab 
+      <!--</a>-->
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week # - Monday Homework -->
+      <!--<a href="">-->
+        HOMEWORK TITLE
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Tuesday Homework -->
+      <!--<a href="">-->
+      HOMEWORK TITLE
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Wednesday Homework -->
+      <!--<a href="">-->
+      HOMEWORK TITLE
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Thursday Homework -->
+     <!--<a href="">-->
+      HOMEWORK TITLE
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Friday -->
+      <!--<a href="">-->
+      Weekend Lab
+      <!--</a>-->
+    </td>
+  </tr>
+</table>
+
