@@ -1252,27 +1252,27 @@
     <td><strong>Drills</strong></td>
     <td> <!-- Week # - Monday Drill -->
       <!--<a href="">-->
-      DRILL TITLE
+      Drill Title
       <!--</a>-->
     </td>
     <td> <!-- Week # - Tuesday Drill -->
       <!--<a href="">-->
-      DRILL TITLE
+      Drill Title
       <!--</a>-->
     </td>
     <td> <!-- Week # - Wednesday Drill -->
       <!--<a href="">-->
-      DRILL TITLE
+      Drill Title
       <!--</a>-->
     </td>
     <td> <!-- Week # - Thursday Drill -->
       <!--<a href="">-->
-      DRILL TITLE
+      Drill Title
       <!--</a>-->
     </td>
     <td> <!-- Week # - Friday Drill -->
       <!--<a href="">-->
-      DRILL TITLE
+      Drill Title
       <!--</a>-->
     </td>
   </tr>
@@ -1280,17 +1280,17 @@
     <td><strong>Module 1</strong></td>
     <td> <!-- Week # - Monday Morning Module -->
       <!--<a href="">-->
-      LAB TITLE
+      Lab Title
       <!--</a>-->
     </td>
     <td> <!-- Week # - Tuesday Morning Module -->
       <!--<a href="">-->
-      LAB TITLE
+      Lab Title
       <!--</a>-->
     </td>
     <td> <!-- Week # - Wednesday Morning Module -->
       <!--<a href="">-->
-      LAB TITLE
+      Lab Title
       <!--</a>-->
     </td>
     <td> <!-- Week # - Thursday Morning Module -->
@@ -1299,7 +1299,7 @@
     </td>
     <td> <!-- Week # - Friday Morning Module -->
       <!--<a href="">-->
-      LAB TITLE 
+      Lab Title
       <!--</a>-->
     </td>
   </tr>
@@ -1307,22 +1307,22 @@
     <td><strong>Module 2</strong></td>
     <td> <!-- Week # - Monday Afternoon Module -->
       <!--<a href="">-->
-      LAB TITLE
+      Lab Title
       <!--</a>-->
     </td>
     <td> <!-- Week # - Tuesday Afternoon Module -->
       <!--<a href="">-->
-      LAB TITLE
+      Lab Title
       <!--</a>-->
     </td>
     <td> <!-- Week # - Wednesday Afternoon Module -->
       <!--<a href="">-->
-      LAB TITLE
+      Lab Title
       <!--</a>-->
     </td>
     <td> <!-- Week # - Thursday Afternoon Module -->
       <!--<a href="">-->
-      LAB TITLE
+      Lab Title
       <!--</a>-->
     </td>
     <td> <!-- Week # - Friday Afternoon / Weekend Lab -->
@@ -1335,22 +1335,22 @@
     <td><strong>Homework</strong></td>
     <td> <!-- Week # - Monday Homework -->
       <!--<a href="">-->
-        HOMEWORK TITLE
+      Homework Title
       <!--</a>-->
     </td>
     <td> <!-- Week # - Tuesday Homework -->
       <!--<a href="">-->
-      HOMEWORK TITLE
+      Homework Title
       <!--</a>-->
     </td>
     <td> <!-- Week # - Wednesday Homework -->
       <!--<a href="">-->
-      HOMEWORK TITLE
+      Homework Title
       <!--</a>-->
     </td>
     <td> <!-- Week # - Thursday Homework -->
      <!--<a href="">-->
-      HOMEWORK TITLE
+      Homework Title
       <!--</a>-->
     </td>
     <td> <!-- Week # - Friday -->
