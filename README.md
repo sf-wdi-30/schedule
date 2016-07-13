@@ -55,9 +55,9 @@
       (BM)
     </td>
     <td> <!-- Week 3 - Wednesday Morning Module -->
-      <!--<a href="">-->
-      Intro to REST & ToDo Lab 
-      <!--</a> -->
+      RESTful Routing
+      &
+      <a href="https://github.com/SF-WDI-LABS/test-driven-todo-api">Todo Lab</a>
       (BM & NA)
     </td>
     <td> <!-- Week 3 - Thursday Morning Module -->
