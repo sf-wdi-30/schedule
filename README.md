@@ -24,9 +24,9 @@
       (team)
     </td>
     <td> <!-- Week 3 - Wednesday Drill -->
-      <!--<a href="">-->
-      Bubble Sort 
-      <!--</a>-->
+      <a href="https://github.com/sf-wdi-30/bubble-sort">
+      Bubble Sort
+      </a>
       (BM)
     </td>
     <td> <!-- Week 3 - Thursday Drill -->
