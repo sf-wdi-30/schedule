@@ -62,7 +62,7 @@
     </td>
     <td> <!-- Week 3 - Thursday Morning Module -->
       Outcomes <hr>
-      DIR Power Hour 
+      IA Power Hour 
       (MC)
     </td>
     <td> <!-- Week 3 - Friday Morning Module -->
