@@ -93,9 +93,9 @@
       (JC)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon Module -->
-      <!--<a href="">-->
+      <a href="https://github.com/sf-wdi-30/mongoose-referenced-relationships">
       Mongoose Relationships
-      <!--</a>-->
+      </a>
       (BM)
     </td>
     <td> <!-- Week 3 - Friday Afternoon / Weekend Lab -->
