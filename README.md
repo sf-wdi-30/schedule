@@ -30,9 +30,9 @@
       (BM)
     </td>
     <td> <!-- Week 3 - Thursday Drill -->
-      <!--<a href="">-->
+      <a href="https://github.com/sf-wdi-30/js-algorithms-drills/tree/master/merge-sort">
       Merge Sort 
-      <!--</a>-->
+      </a>
       (JC)
     </td>
     <td> <!-- Week 3 - Friday Drill -->
