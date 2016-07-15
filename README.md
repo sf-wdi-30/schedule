@@ -101,9 +101,10 @@
       (BM)
     </td>
     <td> <!-- Week 3 - Friday Afternoon / Weekend Lab -->
-      <!--<a href=""> -->
-      Weekend Lab 
-      <!--</a>-->
+      <a href="https://github.com/sf-wdi-30/express-personal-api"> 
+      Personal API
+      </a>
+      - Weekend Lab
       (NA)
     </td>
   </tr>
