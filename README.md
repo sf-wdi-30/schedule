@@ -62,7 +62,9 @@
     </td>
     <td> <!-- Week 3 - Thursday Morning Module -->
       Outcomes <hr>
+      <a href="https://gist.github.com/melicarls/db89429763baeab55e9f8ac48ee46c39">
       IA Power Hour 
+      </a>
       (MC)
     </td>
     <td> <!-- Week 3 - Friday Morning Module -->
