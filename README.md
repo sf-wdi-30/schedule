@@ -128,7 +128,7 @@
     </td>
     <td> <!-- Week 3 - Thursday Homework -->
      <!--<a href="">-->
-      CRUD & Query Method Reading
+      Finish Book App Sprint 2
       <!--</a>-->
     </td>
     <td> <!-- Week 3 - Friday -->
