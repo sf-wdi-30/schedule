@@ -130,9 +130,9 @@
       <!--</a>-->
     </td>
     <td> <!-- Week 3 - Friday -->
-      <!--<a href="">-->
+      <a href="http://mongoosejs.com/docs/populate.html">
       Weekend Lab
-      <!--</a>-->
+      </a>
     </td>
   </tr>
 </table>
