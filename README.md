@@ -20,7 +20,7 @@
       (team)
     </td>
     <td> <!-- Week 4 - Tuesday Drill -->
-      Tunely
+      <a href="https://github.com/sf-wdi-30/tunely">Tunely</a>
       (tbd)
     </td>
     <td> <!-- Week 4 - Wednesday Drill -->
@@ -39,11 +39,11 @@
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 4 - Monday Morning Module -->
-      Tunely
+      <a href="https://github.com/sf-wdi-30/tunely">Tunely</a>
       (J)
     </td>
     <td> <!-- Week 4 - Tuesday Morning Module -->
-      Tunely
+      <a href="https://github.com/sf-wdi-30/tunely">Tunely</a>
       (J)
     </td>
     <td> <!-- Week 4 - Wednesday Morning Module -->
@@ -62,12 +62,12 @@
   <tr>
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 4 - Monday Afternoon Module -->
-      Tunely
+      <a href="https://github.com/sf-wdi-30/tunely">Tunely</a>
       (B)
     </td>
     <td> <!-- Week 4 - Tuesday Afternoon Module -->
-      Tunely (B)
-    </td>
+      <a href="https://github.com/sf-wdi-30/tunely">Tunely</a>
+      (B)    </td>
     <td> <!-- Week 4 - Wednesday Afternoon Module -->
       Project 1
     </td>
@@ -81,10 +81,10 @@
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 4 - Monday Homework -->
-      Tunely
+            <a href="https://github.com/sf-wdi-30/tunely">Tunely</a>
     </td>
     <td> <!-- Week 4 - Tuesday Homework -->
-      Tunely
+            <a href="https://github.com/sf-wdi-30/tunely">Tunely</a>
     </td>
     <td> <!-- Week 4 - Wednesday Homework -->
       Project 1
