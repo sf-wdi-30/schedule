@@ -81,20 +81,16 @@
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 4 - Monday Homework -->
-      Reading
-      (tbd)
+      Tunely
     </td>
     <td> <!-- Week 4 - Tuesday Homework -->
-      Reading
-      (tbd)
+      Tunely
     </td>
     <td> <!-- Week 4 - Wednesday Homework -->
-      Reading
-      (tbd)
+      Project 1
     </td>
     <td> <!-- Week 4 - Thursday Homework -->
-      Reading
-      (tbd)
+      Project 1
     </td>
     <td> <!-- Week 4 - Friday -->
       <!-- BLANK -->
