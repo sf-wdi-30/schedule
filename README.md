@@ -129,7 +129,7 @@
     </td>
     <td> <!-- Week 3 - Thursday Homework -->
      <!--<a href="">-->
-      Finish Book App Sprint 2
+      Finish <a href="https://github.com/sf-wdi-30/mongoose-books-app">Book App </a> Sprint 2
       <!--</a>-->
     </td>
     <td> <!-- Week 3 - Friday -->
