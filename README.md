@@ -3,6 +3,105 @@
 [How to request a personal Code Review](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md)
 
 
+## Week 4  - Full-Stack JS / Project 1
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 4 - Monday Drill -->
+      Science Fair
+      (team)
+    </td>
+    <td> <!-- Week 4 - Tuesday Drill -->
+      Tunely
+      (tbd)
+    </td>
+    <td> <!-- Week 4 - Wednesday Drill -->
+      Project 1 Intro
+      (tbd)
+    </td>
+    <td> <!-- Week 4 - Thursday Drill -->
+      Project 1
+      (tbd)
+    </td>
+    <td> <!-- Week 4 - Friday Review -->
+      Project 1
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 4 - Monday Morning Module -->
+      Tunely
+      (J)
+    </td>
+    <td> <!-- Week 4 - Tuesday Morning Module -->
+      Tunely
+      (J)
+    </td>
+    <td> <!-- Week 4 - Wednesday Morning Module -->
+      P1 Approvals
+      (team)
+    </td>
+    <td> <!-- Week 4 - Thursday Morning Module -->
+      Outcomes
+      <hr>
+      Project 1
+    </td>
+    <td> <!-- Week 4 - Friday Morning Module -->
+      Project 1
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 4 - Monday Afternoon Module -->
+      Tunely
+      (B)
+    </td>
+    <td> <!-- Week 4 - Tuesday Afternoon Module -->
+      Tunely (B)
+    </td>
+    <td> <!-- Week 4 - Wednesday Afternoon Module -->
+      Project 1
+    </td>
+    <td> <!-- Week 4 - Thursday Afternoon Module -->
+      Project 1
+    </td>
+    <td> <!-- Week 4 - Friday Afternoon / Weekend Lab -->
+      Project 1
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 4 - Monday Homework -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 4 - Tuesday Homework -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 4 - Wednesday Homework -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 4 - Thursday Homework -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 4 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
 ## Week 3 - Intro to Express & REST
 <table>
   <tr>
