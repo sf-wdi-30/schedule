@@ -47,16 +47,16 @@
       (J)
     </td>
     <td> <!-- Week 4 - Wednesday Morning Module -->
-      P1 Approvals
+      <a href="https://github.com/sf-wdi-30/project-01">P1 Approvals</a>
       (team)
     </td>
     <td> <!-- Week 4 - Thursday Morning Module -->
       Outcomes
       <hr>
-      Project 1
+      <a href="https://github.com/sf-wdi-30/project-01">P1</a>
     </td>
     <td> <!-- Week 4 - Friday Morning Module -->
-      Project 1
+      <a href="https://github.com/sf-wdi-30/project-01">P1</a>
     </td>
   </tr>
   <tr>
@@ -69,13 +69,13 @@
       <a href="https://github.com/sf-wdi-30/tunely">Tunely</a>
       (B)    </td>
     <td> <!-- Week 4 - Wednesday Afternoon Module -->
-      Project 1
+      <a href="https://github.com/sf-wdi-30/project-01">P1</a>
     </td>
     <td> <!-- Week 4 - Thursday Afternoon Module -->
-      Project 1
+      <a href="https://github.com/sf-wdi-30/project-01">P1</a>
     </td>
     <td> <!-- Week 4 - Friday Afternoon / Weekend Lab -->
-      Project 1
+      <a href="https://github.com/sf-wdi-30/project-01">P1</a>
     </td>
   </tr>
   <tr>
@@ -87,10 +87,10 @@
             <a href="https://github.com/sf-wdi-30/tunely">Tunely</a>
     </td>
     <td> <!-- Week 4 - Wednesday Homework -->
-      Project 1
+      <a href="https://github.com/sf-wdi-30/project-01">P1</a>
     </td>
     <td> <!-- Week 4 - Thursday Homework -->
-      Project 1
+      <a href="https://github.com/sf-wdi-30/project-01">P1</a>
     </td>
     <td> <!-- Week 4 - Friday -->
       <!-- BLANK -->
