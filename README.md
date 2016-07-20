@@ -51,8 +51,6 @@
       (team)
     </td>
     <td> <!-- Week 4 - Thursday Morning Module -->
-      Outcomes
-      <hr>
       <a href="https://github.com/sf-wdi-30/project-01">P1</a>
     </td>
     <td> <!-- Week 4 - Friday Morning Module -->
