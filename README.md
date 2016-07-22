@@ -55,7 +55,7 @@
     </td>
     <td> <!-- Week 4 - Friday Morning Module -->
       <a href="https://github.com/sf-wdi-30/project-01">P1</a>
-      <!--<a href="https://github.com/SF-WDI-LABS/express-microblog-add-auth">Auth BreakOut</a>-->
+      <a href="https://github.com/SF-WDI-LABS/express-microblog-add-auth">Auth BreakOut</a>
     </td>
   </tr>
   <tr>
