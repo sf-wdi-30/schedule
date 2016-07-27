@@ -2,9 +2,96 @@
 
 [How to request a personal Code Review](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md)
  
-![](http://cdn1-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-2.jpg)
+## Week 5  - Project 1 / Angular
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 5 - Monday Drill -->
+      Project 1
 
-## Week 4  - Full-Stack JS / Project 1
+    </td>
+    <td> <!-- Week 5 - Tuesday Drill -->
+      Project 1
+
+    </td>
+    <td> <!-- Week 5 - Wednesday Drill -->
+      Seven Challenges
+    </td>
+    <td> <!-- Week 5 - Thursday Drill -->
+      Iterators
+    </td>
+    <td> <!-- Week 5 - Friday Review -->
+      Tunely Angular
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 5 - Monday Morning Module -->
+      Project 1
+    </td>
+    <td> <!-- Week 5 - Tuesday Morning Module -->
+      Project 1 Presentations
+    </td>
+    <td> <!-- Week 5 - Wednesday Morning Module -->
+     Seven Challenge  
+    </td>
+    <td> <!-- Week 5 - Thursday Morning Module -->
+      Outcomes  
+      <br>-------<br>
+     Angular Intro
+    </td>
+    <td> <!-- Week 5 - Friday Morning Module -->
+     Tunely Angular 
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 5 - Monday Afternoon Module -->
+     Project 1
+    </td>
+    <td> <!-- Week 5 - Tuesday Afternoon Module -->
+		Debugging Party   
+		 </td>
+    <td> <!-- Week 5 - Wednesday Afternoon Module -->
+      	Express Login Cookie Sessions
+    </td>
+    <td> <!-- Week 5 - Thursday Afternoon Module -->
+      Tunely Angular
+    </td>
+    <td> <!-- Week 5 - Friday Afternoon / Weekend Lab -->
+      Angular Weekend Lab
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 5 - Monday Homework -->
+            Project 1
+    </td>
+    <td> <!-- Week 5 - Tuesday Homework -->
+            TBD
+    </td>
+    <td> <!-- Week 5 - Wednesday Homework -->
+      TBD
+    </td>
+    <td> <!-- Week 5 - Thursday Homework -->
+      TBD
+    </td>
+    <td> <!-- Week 5 - Friday -->
+      TBD
+    </td>
+  </tr>
+</table>
+
+
+## Week 4   - Full-Stack JS / Project 1
 <table>
   <tr>
     <th><!-- BLANK --></th>
