@@ -61,7 +61,7 @@
 		Debugging Party   
 		 </td>
     <td> <!-- Week 5 - Wednesday Afternoon Module -->
-      	<a href="https://github.com/sf-wdi-30/express_form_login_cookies_lab">Express Form Login Cookie Sessions Lab</a>
+      	<a href="https://github.com/sf-wdi-30/express_form_login_cookies_lab">Express Form Login Cookies Lab</a>
     </td>
     <td> <!-- Week 5 - Thursday Afternoon Module -->
       Tunely Angular
