@@ -41,7 +41,7 @@
       Project 1 Presentations
     </td>
     <td> <!-- Week 5 - Wednesday Morning Module -->
-     <a href="https://github.com/sf-wdi-30/seven_challenges">Seven Challenge  </a>
+     <a href="https://github.com/sf-wdi-30/seven_challenges">Seven Challenges  </a>
     </td>
     <td> <!-- Week 5 - Thursday Morning Module -->
       Outcomes  
