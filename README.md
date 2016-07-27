@@ -23,7 +23,7 @@
 
     </td>
     <td> <!-- Week 5 - Wednesday Drill -->
-      Seven Challenges
+      <a href="https://github.com/sf-wdi-30/seven_challenges">Seven Challenges</>
     </td>
     <td> <!-- Week 5 - Thursday Drill -->
       Iterators
@@ -41,7 +41,7 @@
       Project 1 Presentations
     </td>
     <td> <!-- Week 5 - Wednesday Morning Module -->
-     Seven Challenge  
+     <a href="https://github.com/sf-wdi-30/seven_challenges">Seven Challenge  </a>
     </td>
     <td> <!-- Week 5 - Thursday Morning Module -->
       Outcomes  
