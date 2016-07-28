@@ -46,7 +46,7 @@
     <td> <!-- Week 5 - Thursday Morning Module -->
       Outcomes  
       <br>-------<br>
-     Angular Intro
+     <a href="https://github.com/sf-wdi-30/intro_angular_challenges">Angular Intro  </a>
     </td>
     <td> <!-- Week 5 - Friday Morning Module -->
      Tunely Angular 
