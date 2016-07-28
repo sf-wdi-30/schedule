@@ -82,7 +82,7 @@
       TBD
     </td>
     <td> <!-- Week 5 - Thursday Homework -->
-      TBD
+      <a href="https://github.com/sf-wdi-30/schedule/blob/master/homework/week5.md#thursday">Angular Reading</a>
     </td>
     <td> <!-- Week 5 - Friday -->
       TBD
