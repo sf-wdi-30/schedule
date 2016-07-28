@@ -26,7 +26,7 @@
       <a href="https://github.com/sf-wdi-30/seven_challenges">Seven Challenges</>
     </td>
     <td> <!-- Week 5 - Thursday Drill -->
-      Iterators
+      <a href="https://github.com/sf-wdi-30/intro_angular_challenges">Angular Black Page</a>
     </td>
     <td> <!-- Week 5 - Friday Review -->
       Tunely Angular
