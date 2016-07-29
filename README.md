@@ -16,17 +16,15 @@
     <td><strong>Drills</strong></td>
     <td> <!-- Week 5 - Monday Drill -->
       Project 1
-
     </td>
     <td> <!-- Week 5 - Tuesday Drill -->
       Project 1
-
     </td>
     <td> <!-- Week 5 - Wednesday Drill -->
       <a href="https://github.com/sf-wdi-30/seven_challenges">Seven Challenges</>
     </td>
     <td> <!-- Week 5 - Thursday Drill -->
-      <a href="https://github.com/sf-wdi-30/intro_angular_challenges">Angular Black Page</a>
+      <a href="https://github.com/sf-wdi-30/intro_angular_challenges">Intro Angular Challenges</a>
     </td>
     <td> <!-- Week 5 - Friday Review -->
       <a href="https://github.com/sf-wdi-30/js-linked-list">Linked Lists</a>
@@ -41,12 +39,12 @@
       Project 1 Presentations
     </td>
     <td> <!-- Week 5 - Wednesday Morning Module -->
-     <a href="https://github.com/sf-wdi-30/seven_challenges">Seven Challenges  </a>
+     <a href="https://github.com/sf-wdi-30/seven_challenges">Seven Challenges</a>
     </td>
     <td> <!-- Week 5 - Thursday Morning Module -->
       Outcomes  
       <br>-------<br>
-     <a href="https://github.com/sf-wdi-30/intro_angular_challenges">Angular Intro  </a>
+     <a href="https://github.com/sf-wdi-30/intro_angular_challenges">Angular Intro</a>
     </td>
     <td> <!-- Week 5 - Friday Morning Module -->
      Review
@@ -87,7 +85,7 @@
       <a href="https://github.com/sf-wdi-30/schedule/blob/master/homework/week5.md#thursday">Angular Reading</a>
     </td>
     <td> <!-- Week 5 - Friday -->
-      <a href ="https://github.com/SF-WDI-LABS/angular-pokemon-lab">Gotta CRUD 'em all!</a>
+      <a href="https://github.com/sf-wdi-30/angular-pokemon-lab">Gotta CRUD 'em all!</a>
     </td>
   </tr>
 </table>
