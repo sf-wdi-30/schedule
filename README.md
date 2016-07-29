@@ -49,7 +49,9 @@
      <a href="https://github.com/sf-wdi-30/intro_angular_challenges">Angular Intro  </a>
     </td>
     <td> <!-- Week 5 - Friday Morning Module -->
-     Tunely Angular 
+     Review
+     <br>--------<br>
+     <a href="https://github.com/sf-wdi-30/angular_hangman_lab">Hangular Man</a>
     </td>
   </tr>
   <tr>
