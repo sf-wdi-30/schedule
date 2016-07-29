@@ -29,7 +29,7 @@
       <a href="https://github.com/sf-wdi-30/intro_angular_challenges">Angular Black Page</a>
     </td>
     <td> <!-- Week 5 - Friday Review -->
-      <a href="https://github.com/sf-wdi-30/js-linked-list">Linked Lists</a>`
+      <a href="https://github.com/sf-wdi-30/js-linked-list">Linked Lists</a>
     </td>
   </tr>
   <tr>
