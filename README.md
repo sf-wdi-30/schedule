@@ -15,7 +15,7 @@
   <tr>
     <td><strong>Drills</strong></td>
     <td> <!-- Week 6 - Monday Drill -->
-      Singly Linked Lists
+      <a href="https://github.com/sf-wdi-30/js-linked-list">Singly Linked Lists</a>
     </td>
     <td> <!-- Week 6 - Tuesday Drill -->
       Binary Search Tree
