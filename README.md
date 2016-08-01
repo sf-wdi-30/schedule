@@ -33,7 +33,7 @@
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 6 - Monday Morning Module -->
-      Promise Chaining
+      <a href="https://github.com/sf-wdi-30/angular-api-dashboard">Promise Chaining</a>
     </td>
     <td> <!-- Week 6 - Tuesday Morning Module -->
       Book App
