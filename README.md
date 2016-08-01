@@ -51,7 +51,7 @@
   <tr>
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 6 - Monday Afternoon Module -->
-     Angular Routing
+     <a href="https://github.com/sf-wdi-30/angular-ngRoute">Angular Routing</a>
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon Module -->
 		Book App   
