@@ -18,7 +18,7 @@
       <a href="https://github.com/sf-wdi-30/js-linked-list">Singly Linked Lists</a>
     </td>
     <td> <!-- Week 6 - Tuesday Drill -->
-      Binary Search Tree
+      <a href="https://github.com/sf-wdi-30/js-binary-search-tree">Binary Search Tree</a>
     </td>
     <td> <!-- Week 6 - Wednesday Drill -->
       Stacks and Queues
