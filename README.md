@@ -36,7 +36,7 @@
       <a href="https://github.com/sf-wdi-30/angular-api-dashboard">Promise Chaining</a>
     </td>
     <td> <!-- Week 6 - Tuesday Morning Module -->
-      Book App
+      <a href="https://github.com/sf-wdi-30/angular-books-crud-lab">Book App</a
     </td>
     <td> <!-- Week 6 - Wednesday Morning Module -->
      Choose your API integration!    </td>
@@ -55,7 +55,7 @@
      <a href="https://github.com/sf-wdi-30/color-me-angular">Color me Angular</a>
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon Module -->
-		Book App   
+		<a href="https://github.com/sf-wdi-30/angular-books-crud-lab">Book App</a>
 		 </td>
     <td> <!-- Week 6 - Wednesday Afternoon Module -->
       	MEAN Authorization
@@ -72,7 +72,7 @@
             Tunely 4
     </td>
     <td> <!-- Week 6 - Tuesday Homework -->
-            Book App
+            <a href="https://github.com/sf-wdi-30/angular-books-crud-lab">Book App</a>
     </td>
     <td> <!-- Week 6 - Wednesday Homework -->
 		      Ruby Health Check
