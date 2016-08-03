@@ -76,10 +76,12 @@
             <a href="https://github.com/sf-wdi-30/angular-books-crud-lab">Book App</a>
     </td>
     <td> <!-- Week 6 - Wednesday Homework -->
-		      Ruby Health Check
+	    <a href="https://docs.google.com/a/generalassemb.ly/forms/d/e/1FAIpQLScPjPcp9npTJltxY2voXch36XEKw_KbfYztJasuvr887h2Fmg/viewform">Ruby Health Check</a>
+	    <br>----------<br>
+	    <a href="http://tryruby.org/levels/1/challenges/0">Try Ruby!</a>
     </td>
     <td> <!-- Week 6 - Thursday Homework -->
-	 	try Ruby!
+	 	Ruby Koans
     </td>
     <td> <!-- Week 6 - Friday -->
       Ruby method drills>
