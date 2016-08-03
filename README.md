@@ -59,7 +59,7 @@
 		<a href="https://github.com/sf-wdi-30/angular-books-crud-lab">Book App</a>
 		 </td>
     <td> <!-- Week 6 - Wednesday Afternoon Module -->
-      	MEAN Authorization
+      	<a href="https://github.com/sf-wdi-30/choose-your-own-angular-api-mashup">Choose your API integration!</a>
     </td>
     <td> <!-- Week 6 - Thursday Afternoon Module -->
       Intro Ruby
