@@ -21,7 +21,7 @@
       <a href="https://github.com/sf-wdi-30/js-binary-search-tree">Binary Search Tree</a>
     </td>
     <td> <!-- Week 6 - Wednesday Drill -->
-      Stacks and Queues
+      <a href="https://github.com/sf-wdi-30/js-algorithms-drills/tree/master/stacks-and-queues">Stacks and Queues</a>
     </td>
     <td> <!-- Week 6 - Thursday Drill -->
       Ruby Preparatory School
