@@ -84,7 +84,7 @@
 	 	Ruby Koans
     </td>
     <td> <!-- Week 6 - Friday -->
-      Ruby method drills>
+      Ruby method drills
     </td>
   </tr>
 </table>
