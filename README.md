@@ -62,7 +62,7 @@
       	<a href="https://github.com/sf-wdi-30/choose-your-own-angular-api-mashup">Choose your API integration!</a>
     </td>
     <td> <!-- Week 6 - Thursday Afternoon Module -->
-      Intro Ruby
+      <a href="https://github.com/sf-wdi-30/intro-ruby">Intro Ruby</a>
     </td>
     <td> <!-- Week 6 - Friday Afternoon / Weekend Lab -->
       Ruby Control Flow    </td>
