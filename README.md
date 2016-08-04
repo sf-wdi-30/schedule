@@ -81,7 +81,7 @@
 	    <a href="http://tryruby.org/levels/1/challenges/0">Try Ruby!</a>
     </td>
     <td> <!-- Week 6 - Thursday Homework -->
-	 	Ruby Koans
+	 	<a href="https://github.com/sf-wdi-30/ruby-koans">Ruby Koans</a>
     </td>
     <td> <!-- Week 6 - Friday -->
       Ruby method drills
