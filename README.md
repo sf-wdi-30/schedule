@@ -48,7 +48,7 @@
       <br>-------<br>
      DIR Power Hour    </td>
     <td> <!-- Week 6 - Friday Morning Module -->
-	Ruby Control Flow
+	<a href="https://github.com/sf-wdi-30/ruby-methods">Ruby Control Flow</a>
     </td>
   </tr>
   <tr>
