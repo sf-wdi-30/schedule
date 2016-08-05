@@ -46,7 +46,7 @@
       <br>-------<br>
      DIR Power Hour    </td>
     <td> <!-- Week 6 - Friday Morning Module -->
-     Idiomatic Ruby
+	Ruby Control Flow
     </td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@
       <a href="https://github.com/sf-wdi-30/intro-ruby">Intro Ruby</a>
     </td>
     <td> <!-- Week 6 - Friday Afternoon / Weekend Lab -->
-      Ruby Control Flow    </td>
+      Idiomatic Ruby    </td>
   </tr>
   <tr>
     <td><strong>Homework</strong></td>
