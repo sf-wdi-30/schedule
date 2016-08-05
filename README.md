@@ -86,7 +86,7 @@
 	 	<a href="https://github.com/sf-wdi-30/ruby-koans">Ruby Koans</a>
     </td>
     <td> <!-- Week 6 - Friday -->
-      Ruby method drills
+      <a href="https://github.com/sf-wdi-30/ruby_method_drills">Ruby method drills</a>
     </td>
   </tr>
 </table>
