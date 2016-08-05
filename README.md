@@ -27,7 +27,9 @@
       Ruby Preparatory School
     </td>
     <td> <!-- Week 6 - Friday Review -->
-      Ruby Warrior
+      <a href="https://www.bloc.io/ruby-warrior#/">Facebook Ruby Warrior</a>
+      <hr>
+      <a href="https://github.com/ryanb/ruby-warrior">Command Line Ruby Warrior</a>
     </td>
   </tr>
   <tr>
