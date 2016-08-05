@@ -67,7 +67,7 @@
       <a href="https://github.com/sf-wdi-30/intro-ruby">Intro Ruby</a>
     </td>
     <td> <!-- Week 6 - Friday Afternoon / Weekend Lab -->
-      Idiomatic Ruby    </td>
+      <a href="https://github.com/sf-wdi-30/idiomatic-ruby">Idiomatic Ruby    </td>
   </tr>
   <tr>
     <td><strong>Homework</strong></td>
