@@ -33,7 +33,7 @@
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 7 - Monday Morning Module -->
-      Username Generator & Regex
+      Username Generator & <a href="https://github.com/sf-wdi-30/ruby-regular-expressions">Regex</a>
     </td>
     <td> <!-- Week 7 - Tuesday Morning Module -->
       OO Card Game
