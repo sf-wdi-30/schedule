@@ -2,6 +2,91 @@
 
 [How to request a personal Code Review](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md)
 
+## Week 7  - Ruby on Rails!
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 7 - Monday Drill -->
+      <a href="https://github.com/sf-wdi-30/username_generator">Username Generator</a>
+    </td>
+    <td> <!-- Week 7 - Tuesday Drill -->
+      CSV Challenge
+    </td>
+    <td> <!-- Week 7 - Wednesday Drill -->
+      CSV Challenge
+    </td>
+    <td> <!-- Week 7 - Thursday Drill -->
+      CSV Challenge
+    </td>
+    <td> <!-- Week 7 - Friday Review -->
+      Feedback Survey
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 7 - Monday Morning Module -->
+      Username Generator & Regex
+    </td>
+    <td> <!-- Week 7 - Tuesday Morning Module -->
+      OO Card Game
+    </td>
+    <td> <!-- Week 7 - Wednesday Morning Module -->
+     Active Record
+    </td>
+    <td> <!-- Week 7 - Thursday Morning Module -->
+      Outcomes  
+      <br>-------<br>
+     DIR Power Hour    </td>
+    <td> <!-- Week 7 - Friday Morning Module -->
+	Outside-in Rails Development
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 7 - Monday Afternoon Module -->
+     	 RubyOOP
+    </td>
+    <td> <!-- Week 7 - Tuesday Afternoon Module -->
+	 SQL Queries
+    </td>
+    <td> <!-- Week 7 - Wednesday Afternoon Module -->
+      	 Intro Rails
+    </td>
+    <td> <!-- Week 7 - Thursday Afternoon Module -->
+         Review
+    </td>
+    <td> <!-- Week 7 - Friday Afternoon / Weekend Lab -->
+    	 Rock N Rails
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 7 - Monday Homework -->
+        Wheel of Fortune Lab & SQL Reading  
+    </td>
+    <td> <!-- Week 7 - Tuesday Homework -->
+        Active Record Reading
+    </td>
+    <td> <!-- Week 7 - Wednesday Homework -->
+	Rails For Zombies  
+    </td>
+    <td> <!-- Week 7 - Thursday Homework -->
+	Rails Active Records Guides/Partials and Helpers	 	
+    </td>
+    <td> <!-- Week 7 - Friday -->
+        Bog App
+    </td>
+  </tr>
+</table>
+
 ## Week 6  - Getting acute with Angular!
 <table>
   <tr>
