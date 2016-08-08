@@ -52,7 +52,7 @@
   <tr>
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 7 - Monday Afternoon Module -->
-     	 RubyOOP
+     	 <a href="https://github.com/sf-wdi-30/ruby-oop">RubyOOP</a>
     </td>
     <td> <!-- Week 7 - Tuesday Afternoon Module -->
 	 SQL Queries
