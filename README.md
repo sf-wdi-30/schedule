@@ -70,7 +70,7 @@
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 7 - Monday Homework -->
-        <a href="https://github.com/sf-wdi-30/wheel_of_fortune">Wheel of Fortune Lab</a> & SQL Reading  
+        <a href="https://github.com/sf-wdi-30/wheel_of_fortune">Wheel of Fortune Lab</a> & <a href="https://github.com/SF-WDI-LABS/intro-sql/blob/master/README.md">SQL Reading  </a>
     </td>
     <td> <!-- Week 7 - Tuesday Homework -->
         Active Record Reading
