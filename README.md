@@ -55,7 +55,7 @@
      	 <a href="https://github.com/sf-wdi-30/ruby-oop">RubyOOP</a>
     </td>
     <td> <!-- Week 7 - Tuesday Afternoon Module -->
-	 SQL Queries
+	 <a href="https://github.com/sf-wdi-30/intro-sql">SQL Queries</a>
     </td>
     <td> <!-- Week 7 - Wednesday Afternoon Module -->
       	 Intro Rails
