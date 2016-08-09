@@ -36,7 +36,7 @@
       Username Generator & <a href="https://github.com/sf-wdi-30/ruby-regular-expressions">Regex</a>
     </td>
     <td> <!-- Week 7 - Tuesday Morning Module -->
-      OO Card Game
+      <a href="https://github.com/sf-wdi-30/go-fish-card-game">OO Card Game</a>
     </td>
     <td> <!-- Week 7 - Wednesday Morning Module -->
      Active Record
