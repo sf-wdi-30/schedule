@@ -1,7 +1,7 @@
 #Week 7 Homework
 ## Monday
 
-SQL Reading
+<a href="https://github.com/SF-WDI-LABS/intro-sql/blob/master/README.md">SQL Reading</a>
 
 ## Tuesday
 
