@@ -39,7 +39,7 @@
       <a href="https://github.com/sf-wdi-30/go-fish-card-game">OO Card Game</a>
     </td>
     <td> <!-- Week 7 - Wednesday Morning Module -->
-     Active Record
+     <a href="https://github.com/sf-wdi-30/fashion_conference_app">Active Record</a>
     </td>
     <td> <!-- Week 7 - Thursday Morning Module -->
       Outcomes  
@@ -58,7 +58,7 @@
 	 <a href="https://github.com/sf-wdi-30/intro-sql">SQL Queries</a>
     </td>
     <td> <!-- Week 7 - Wednesday Afternoon Module -->
-      	 Intro Rails
+      	 <a href="https://github.com/sf-wdi-30/rails-intro">Intro Rails</a>
     </td>
     <td> <!-- Week 7 - Thursday Afternoon Module -->
          Review
