@@ -14,5 +14,5 @@
 Read this in its entirety:
 <a href="http://guides.rubyonrails.org/active_record_basics.html">Rails Active Records Basics </a>
 
-Read up on view helpers and partials: (this will be a great reference tool)
-<a href="https://github.com/sf-wdi-30/rails-view-partials-and-helpers">
+Read up on <a href="https://github.com/sf-wdi-30/rails-view-partials-and-helpers">view helpers and partials</a>: (this will be a great reference tool)
+
