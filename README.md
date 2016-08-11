@@ -83,7 +83,7 @@
 	<a href="http://railsforzombies.org/">Rails For Zombies</a>
     </td>
     <td> <!-- Week 7 - Thursday Homework -->
-	Rails Active Records Guides/Partials and Helpers	 	
+	<a href="https://github.com/sf-wdi-30/schedule/blob/master/homework/week7.md#thursday">Rails Active Records Guides/Partials and Helpers</a>	 	
     </td>
     <td> <!-- Week 7 - Friday -->
         <!--<a href="https://github.com/sf-wdi-30/rails_bog_app">-->
