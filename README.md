@@ -64,7 +64,9 @@
          Review
     </td>
     <td> <!-- Week 7 - Friday Afternoon / Weekend Lab -->
+    	 <!--<a href="https://github.com/sf-wdi-30/rock-n-rails">-->
     	 Rock N Rails
+    	 <!--</a>-->
     </td>
   </tr>
   <tr>
@@ -84,7 +86,9 @@
 	Rails Active Records Guides/Partials and Helpers	 	
     </td>
     <td> <!-- Week 7 - Friday -->
+        <!--<a href="https://github.com/sf-wdi-30/rails_bog_app">-->
         Bog App
+        <!--</a>-->
     </td>
   </tr>
 </table>
