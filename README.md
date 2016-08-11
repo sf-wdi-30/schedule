@@ -24,10 +24,10 @@
       <a href="https://github.com/sf-wdi-30/csv_challenge">CSV Challenge</a>
     </td>
     <td> <!-- Week 7 - Thursday Drill -->
-      <a href="https://github.com/sf-wdi-30/csv_challenge">CSV Challenge</a>
+    	Feedback Survey
     </td>
     <td> <!-- Week 7 - Friday Review -->
-      Feedback Survey
+      <a href="https://github.com/sf-wdi-30/csv_challenge">CSV Challenge</a>
     </td>
   </tr>
   <tr>
