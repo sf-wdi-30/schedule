@@ -85,9 +85,9 @@
 	<a href="https://github.com/sf-wdi-30/schedule/blob/master/homework/week7.md#thursday">Rails Active Records Guides/Partials and Helpers</a>	 	
     </td>
     <td> <!-- Week 7 - Friday -->
-        <!--<a href="https://github.com/sf-wdi-30/rails_bog_app">-->
+        <a href="https://github.com/sf-wdi-30/rails_bog_app">
         Bog App
-        <!--</a>-->
+        </a>
     </td>
   </tr>
 </table>
