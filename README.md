@@ -46,7 +46,7 @@
       <br>-------<br>
      DIR Power Hour    </td>
     <td> <!-- Week 7 - Friday Morning Module -->
-	Outside-in Rails Development
+	<a href="https://github.com/sf-wdi-30/rock-n-rails">Rock n Rails</a>
     </td>
   </tr>
   <tr>
@@ -64,8 +64,7 @@
          Review
     </td>
     <td> <!-- Week 7 - Friday Afternoon / Weekend Lab -->
-    	 <!--<a href="https://github.com/sf-wdi-30/rock-n-rails">-->
-    	 Rock N Rails
+    	 Outside In Development with Rails
     	 <!--</a>-->
     </td>
   </tr>
