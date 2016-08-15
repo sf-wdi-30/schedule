@@ -98,9 +98,9 @@
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week # - Monday Homework -->
-      <!--<a href="">-->
+      <a href="https://github.com/sf-wdi-30/schedule/blob/master/homework/week8.md">
       Associations & Migrations Reading
-      <!--</a>-->
+      </a>
     </td>
     <td> <!-- Week # - Tuesday Homework -->
       <!--<a href="">-->
