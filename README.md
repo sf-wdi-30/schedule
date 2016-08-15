@@ -44,7 +44,7 @@
     <td><strong>Module 1</strong></td>
     <td> <!-- Week # - Monday Morning Module -->
       <!--<a href="">-->
-      Rails Auth
+      <a href="https://github.com/sf-wdi-30/rails-auth">Rails Auth</a>
       <!--</a>-->
     </td>
     <td> <!-- Week # - Tuesday Morning Module -->
