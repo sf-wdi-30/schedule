@@ -70,9 +70,9 @@
   <tr>
     <td><strong>Module 2</strong></td>
     <td> <!-- Week # - Monday Afternoon Module -->
-      <!--<a href="">-->
+      <a href="https://github.com/sf-wdi-30/public_library_app">
       Library App Part 1
-      <!--</a>-->
+      </a>
     </td>
     <td> <!-- Week # - Tuesday Afternoon Module -->
       <!--<a href="">-->
