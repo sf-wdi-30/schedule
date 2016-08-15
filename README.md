@@ -2,6 +2,129 @@
 
 [How to request a personal Code Review](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md)
 
+## Week 8 - Rails and Vagabond
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week # - Monday Drill -->
+      <a href="https://github.com/sf-wdi-30/secret-keys">
+      Secret Keys
+      </a>
+    </td>
+    <td> <!-- Week # - Tuesday Drill -->
+      <!--<a href="">-->
+      1:N, N:N Relationships
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Wednesday Drill -->
+      <!--<a href="">-->
+      Welcome to Migration Heck!
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Thursday Drill -->
+      <!--<a href="">-->
+     Vagabond
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Friday Drill -->
+      <!--<a href="">-->
+      Vagabond
+      <!--</a>-->
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week # - Monday Morning Module -->
+      <!--<a href="">-->
+      Rails Auth
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Tuesday Morning Module -->
+      <!--<a href="">-->
+      Migrations & Associations
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Wednesday Morning Module -->
+      <!--<a href="">-->
+      Validations and Error Handling
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Thursday Morning Module -->
+      Outcomes <hr>
+      Git Workflow 
+    </td>
+    <td> <!-- Week # - Friday Morning Module -->
+      <!--<a href="">-->
+      Vagabond
+      <!--</a>-->
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week # - Monday Afternoon Module -->
+      <!--<a href="">-->
+      Library App Part 1
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Tuesday Afternoon Module -->
+      <!--<a href="">-->
+      Library App Part 2
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Wednesday Afternoon Module -->
+      <!--<a href="">-->
+      Vagabond & Heroku Deploy Workshop
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Thursday Afternoon Module -->
+      <!--<a href="">-->
+      Vagabond
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Friday Afternoon / Weekend Lab -->
+      <!--<a href=""> -->
+      Vagabond 
+      <!--</a>-->
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week # - Monday Homework -->
+      <!--<a href="">-->
+      Associations & Migrations Reading
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Tuesday Homework -->
+      <!--<a href="">-->
+      Validations Reading
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Wednesday Homework -->
+      <!--<a href="">-->
+      Vagabond
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Thursday Homework -->
+     <!--<a href="">-->
+      Vagabond
+      <!--</a>-->
+    </td>
+    <td> <!-- Week # - Friday -->
+      <!--<a href="">-->
+      Vagabond
+      <!--</a>-->
+    </td>
+  </tr>
+</table>
+
 ## Week 7  - Ruby on Rails!
 <table>
   <tr>
