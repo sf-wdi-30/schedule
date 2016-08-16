@@ -15,13 +15,14 @@ If you have any remaining time, please complete/review the exercises from dawn a
       * Setting up model relationships with [Associations](http://guides.rubyonrails.org/association_basics.html) - Only sections [1](http://guides.rubyonrails.org/active_record_migrations.html#migration-overview) and [2.0-2.4](http://guides.rubyonrails.org/association_basics.html#the-types-of-associations)!
 2. If you have any remaining time, try adding Auth to an existing Rails App (like Bog App or Rock-n-Rails).
 
-<!-- 
+
 ## Day 2
 
 1. Please review the lecture notes from the morning modules [1:N, N:N Relationships](https://gist.github.com/nathanallen/5bdae5d047aca4fc26f2191d27dd665d) and [Migrations & Associations](https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/migrations-and-associations/27)
   - If you have time, try some of the exercises, and take a look at the solutions.
 1. Next, in preparation for tomorrow, please read the rails guide on [ActiveRecord Validations](http://guides.rubyonrails.org/active_record_validations.html). Pay special attention to sections 1-3 (you can skim the rest).
 
+<!-- 
 ## Day 3
 
 1. Reading
