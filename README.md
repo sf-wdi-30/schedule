@@ -21,12 +21,12 @@
     </td>
     <td> <!-- Week # - Tuesday Drill -->
       <!--<a href="">-->
-      1:N, N:N Relationships
+      <a href="https://github.com/sf-wdi-30/rails-active-record-relationships">1:N, N:N Relationships</a>
       <!--</a>-->
     </td>
     <td> <!-- Week # - Wednesday Drill -->
       <!--<a href="">-->
-      Welcome to Migration Hell!
+      <a href="https://github.com/sf-wdi-30/rails-migrations-and-associations">Welcome to Migration Hell!</a>
       <!--</a>-->
     </td>
     <td> <!-- Week # - Thursday Drill -->
