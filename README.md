@@ -26,7 +26,7 @@
     </td>
     <td> <!-- Week # - Wednesday Drill -->
       <!--<a href="">-->
-      <a href="https://github.com/sf-wdi-30/rails-migrations-and-associations">Welcome to Migration Hell!</a>
+      Welcome to Migration Hell!!!
       <!--</a>-->
     </td>
     <td> <!-- Week # - Thursday Drill -->
@@ -49,7 +49,7 @@
     </td>
     <td> <!-- Week # - Tuesday Morning Module -->
       <!--<a href="">-->
-      Migrations & Associations
+      <a href="https://github.com/sf-wdi-30/rails-migrations-and-associations">Migrations & Associations</a>
       <!--</a>-->
     </td>
     <td> <!-- Week # - Wednesday Morning Module -->
