@@ -103,9 +103,9 @@
       </a>
     </td>
     <td> <!-- Week # - Tuesday Homework -->
-      <!--<a href="">-->
-      Validations Reading
-      <!--</a>-->
+      <a href="https://github.com/sf-wdi-30/schedule/blob/master/homework/week8.md#day-2">
+      	Validations Reading
+      </a>
     </td>
     <td> <!-- Week # - Wednesday Homework -->
       <!--<a href="">-->
