@@ -26,7 +26,7 @@
     </td>
     <td> <!-- Week # - Wednesday Drill -->
       <!--<a href="">-->
-      Welcome to Migration Heck!
+      Welcome to Migration Hell!
       <!--</a>-->
     </td>
     <td> <!-- Week # - Thursday Drill -->
