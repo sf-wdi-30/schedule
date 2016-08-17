@@ -80,12 +80,12 @@
       </a>
     </td>
     <td> <!-- Week # - Wednesday Afternoon Module -->
-      <!--<a href="">-->
-      Vagabond 
-      <!--</a>-->
-      & <a href="https://github.com/sf-wdi-30/schedule/blob/master/how_tos/rails/deploy-rails-to-heroku.md">
-      	  Heroku Deploy Workshop
-        </a>
+      <a href="https://github.com/sf-wdi-30/project-vagabond">
+      	Vagabond 
+      </a> &
+      <a href="https://github.com/sf-wdi-30/schedule/blob/master/how_tos/rails/deploy-rails-to-heroku.md">
+      	Heroku Deploy Workshop
+       </a>
     </td>
     <td> <!-- Week # - Thursday Afternoon Module -->
       <!--<a href="">-->
