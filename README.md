@@ -25,9 +25,9 @@
       <!--</a>-->
     </td>
     <td> <!-- Week # - Wednesday Drill -->
-      <!--<a href="">-->
-      Welcome to Migration Hell!!!
-      <!--</a>-->
+      <a href="https://github.com/sf-wdi-30/migration_hell">
+      	Welcome to Migration Hell!!!
+      </a>
     </td>
     <td> <!-- Week # - Thursday Drill -->
       <!--<a href="">-->
