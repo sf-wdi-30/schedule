@@ -204,6 +204,7 @@ Hopefully your app works on Heroku, however, you may see a sad page that looks l
 
 **Basic Heroku Rails, PostgreSQL Setup:**
 
+* <a href="https://devcenter.heroku.com/articles/getting-started-with-rails5" target="_blank">Rails 5 on Heroku</a>
 * <a href="https://devcenter.heroku.com/articles/rails4" target="_blank">Rails 4 on Heroku</a>
 * <a href="https://devcenter.heroku.com/articles/heroku-postgresql" target="_blank">Heroku Postgres</a>
 * <a href="https://devcenter.heroku.com/articles/rake" target="_blank">Running Rake Commands</a>
