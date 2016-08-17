@@ -53,9 +53,9 @@
       <!--</a>-->
     </td>
     <td> <!-- Week # - Wednesday Morning Module -->
-      <!--<a href="">-->
+      <a href="https://github.com/sf-wdi-30/rails-validations-and-error-handling">
       Validations and Error Handling
-      <!--</a>-->
+      </a>
     </td>
     <td> <!-- Week # - Thursday Morning Module -->
       Outcomes <hr>
