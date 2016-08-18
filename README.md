@@ -59,7 +59,9 @@
     </td>
     <td> <!-- Week # - Thursday Morning Module -->
       Outcomes <hr>
-      Git Workflow 
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/github-collaboration-workflow.md">
+      Git Workflow
+      </a>
     </td>
     <td> <!-- Week # - Friday Morning Module -->
       <!--<a href="">-->
