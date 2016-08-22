@@ -74,7 +74,7 @@
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 9 - Monday Homework -->
-      Asset Pipeline, Issues, & Feedback Survey
+      <a href="https://github.com/sf-wdi-30/schedule/blob/master/homework/week9.md#day-1">Asset Pipeline</a>, Issues, & Feedback Survey
     </td>
     <td> <!-- Week 9 - Tuesday Homework -->
       P2 Spec & Lightning Prep
