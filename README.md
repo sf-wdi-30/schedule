@@ -2,6 +2,95 @@
 
 [How to request a personal Code Review](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md)
 
+## Week 9  - Vagabond && Project 2 
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 9 - Monday Drill -->
+     	Vagabond
+      
+    </td>
+    <td> <!-- Week 9 - Tuesday Drill -->
+      Asset Pipeline
+    </td>
+    <td> <!-- Week 9 - Wednesday Drill -->
+      Lightning Talks
+    </td>
+    <td> <!-- Week 9 - Thursday Drill -->
+      Project 2
+    </td>
+    <td> <!-- Week 9 - Friday Review -->
+      Project 2
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 9 - Monday Morning Module -->
+           	Vagabond
+
+    </td>
+    <td> <!-- Week 9 - Tuesday Morning Module -->
+      Javascript in Rails
+    </td>
+    <td> <!-- Week 9 - Wednesday Morning Module -->
+      Lightning Talks
+    </td>
+    <td> <!-- Week 9 - Thursday Morning Module -->
+      Outcomes 
+      <hr>
+      DIR Power-hour
+    </td>
+    <td> <!-- Week 9 - Friday Morning Module -->
+      Project 2
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 9 - Monday Afternoon Module -->
+    	Vagabond presentations
+
+    </td>
+    <td> <!-- Week 9 - Tuesday Afternoon Module -->
+      Lightning Talk Prep
+    </td>
+    <td> <!-- Week 9 - Wednesday Afternoon Module -->
+      Internal Cascading ES6 & Creating React ES6 Asynchronous Monitors
+    </td>
+    <td> <!-- Week 9 - Thursday Afternoon Module -->
+      Project 2
+    </td>
+    <td> <!-- Week 9 - Friday Afternoon / Weekend Lab -->
+      Project 2
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 9 - Monday Homework -->
+      Asset Pipeline, Issues, & Feedback Survey
+    </td>
+    <td> <!-- Week 9 - Tuesday Homework -->
+      P2 Spec & Lightning Prep
+    </td>
+    <td> <!-- Week 9 - Wednesday Homework -->
+      Project 2
+    </td>
+    <td> <!-- Week 9 - Thursday Homework -->
+      Project 2
+    </td>
+    <td> <!-- Week 9 - Friday -->
+     Project 2
+    </td>
+  </tr>
+</table>
+
 ## Week 8 - Rails and Vagabond
 <table>
   <tr>
