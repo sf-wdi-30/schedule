@@ -19,7 +19,7 @@
       
     </td>
     <td> <!-- Week 9 - Tuesday Drill -->
-      Asset Pipeline
+      <a href="https://github.com/sf-wdi-30/asset_pipeline">Asset Pipeline</a>
     </td>
     <td> <!-- Week 9 - Wednesday Drill -->
       Lightning Talks
