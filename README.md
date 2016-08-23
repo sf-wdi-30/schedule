@@ -56,10 +56,9 @@
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 9 - Monday Afternoon Module -->
     	Vagabond presentations
-
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon Module -->
-      Lightning Talk Prep
+      <a href="https://github.com/sf-wdi-30/rails-lightning-talks/blob/master/README.md">Lightning Talk Prep</a>
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon Module -->
       Internal Cascading ES6 & Creating React ES6 Asynchronous Monitors
