@@ -38,7 +38,7 @@
 
     </td>
     <td> <!-- Week 9 - Tuesday Morning Module -->
-      <a href="https://github.com/sf-wdi-30/rails_with_js_and_turbolinks">Javascript in Rails</a>
+      <a href="https://github.com/sf-wdi-30/rails-js-and-turbolinks">Javascript in Rails</a>
     </td>
     <td> <!-- Week 9 - Wednesday Morning Module -->
       Lightning Talks
