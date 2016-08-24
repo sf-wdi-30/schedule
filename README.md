@@ -1,4 +1,4 @@
-# ![](http://i.giphy.com/cPxRDvlSj9QKA.gif) WDI-30 Schedule
+# WDI-30 Schedule
 
 [How to request a personal Code Review](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md)
 
