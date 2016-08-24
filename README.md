@@ -25,10 +25,10 @@
       Lightning Talks
     </td>
     <td> <!-- Week 9 - Thursday Drill -->
-      Project 2
+      <a href="https://github.com/sf-wdi-30/project-02">Project 2</a>
     </td>
     <td> <!-- Week 9 - Friday Review -->
-      Project 2
+      <a href="https://github.com/sf-wdi-30/project-02">Project 2</a>
     </td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@
       DIR Power-hour
     </td>
     <td> <!-- Week 9 - Friday Morning Module -->
-      Project 2
+      <a href="https://github.com/sf-wdi-30/project-02">Project 2</a>
     </td>
   </tr>
   <tr>
@@ -61,13 +61,13 @@
       <a href="https://github.com/sf-wdi-30/rails-lightning-talks/blob/master/README.md">Lightning Talk Prep</a>
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon Module -->
-      Internal Cascading ES6 & Creating React ES6 Asynchronous Monitors
+      <a href="https://github.com/sf-wdi-30/project-02">Project 2</a>
     </td>
     <td> <!-- Week 9 - Thursday Afternoon Module -->
-      Project 2
+      <a href="https://github.com/sf-wdi-30/project-02">Project 2</a>
     </td>
     <td> <!-- Week 9 - Friday Afternoon / Weekend Lab -->
-      Project 2
+      <a href="https://github.com/sf-wdi-30/project-02">Project 2</a>
     </td>
   </tr>
   <tr>
@@ -79,13 +79,13 @@
       P2 Spec & Lightning Prep
     </td>
     <td> <!-- Week 9 - Wednesday Homework -->
-      Project 2
+      <a href="https://github.com/sf-wdi-30/project-02">Project 2</a>
     </td>
     <td> <!-- Week 9 - Thursday Homework -->
-      Project 2
+      <a href="https://github.com/sf-wdi-30/project-02">Project 2</a>
     </td>
     <td> <!-- Week 9 - Friday -->
-     Project 2
+     <a href="https://github.com/sf-wdi-30/project-02">Project 2</a>
     </td>
   </tr>
 </table>
