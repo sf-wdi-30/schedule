@@ -46,7 +46,7 @@
     <td> <!-- Week 9 - Thursday Morning Module -->
       Outcomes 
       <hr>
-      DIR Power-hour
+        <a href="https://github.com/sf-wdi-30/project-02">Project 2</a>
     </td>
     <td> <!-- Week 9 - Friday Morning Module -->
       <a href="https://github.com/sf-wdi-30/project-02">Project 2</a>
