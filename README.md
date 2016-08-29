@@ -2,6 +2,102 @@
 
 [How to request a personal Code Review](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md)
 
+
+
+## Week 10  - Project 2 
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 10 - Monday Drill -->
+      Project 2
+    </td>
+    <td> <!-- Week 10 - Tuesday Drill -->
+      Project 2
+    </td>
+    <td> <!-- Week 10 - Wednesday Drill -->
+      Project 2
+    </td>
+    <td> <!-- Week 10 - Thursday Drill -->
+      Project 2
+    </td>
+    <td> <!-- Week 10 - Friday Review -->
+      Happy Tree People
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 10 - Monday Morning Module -->
+      Project 2
+
+    </td>
+    <td> <!-- Week 10 - Tuesday Morning Module -->
+      Project 2
+
+    </td>
+    <td> <!-- Week 10 - Wednesday Morning Module -->      Project 2
+
+    </td>
+    <td> <!-- Week 10 - Thursday Morning Module -->
+      Outcomes
+    </td>
+    <td> <!-- Week 10 - Friday Morning Module -->
+      Rails / JS Best Practices
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 10 - Monday Afternoon Module -->
+      Project 2
+
+    </td>
+    <td> <!-- Week 10 - Tuesday Afternoon Module -->      Project 2
+    </td>
+    <td> <!-- Week 10 - Wednesday Afternoon Module -->
+      Project 2
+
+    </td>
+    <td> <!-- Week 10 - Thursday Afternoon Module -->
+      Project 2 Presentations
+
+    </td>
+    <td> <!-- Week 10 - Friday Afternoon / Weekend Lab -->
+      Raingular
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 10 - Monday Homework -->
+      Project 2
+
+    </td>
+    <td> <!-- Week 10 - Tuesday Homework -->
+      Project 2
+
+    </td>
+    <td> <!-- Week 10 - Wednesday Homework -->
+      Project 2
+
+    </td>
+    <td> <!-- Week 10 - Thursday Homework -->
+		Rest/
+		Styleguide
+		Reading
+    </td>
+    <td> <!-- Week 10 - Friday -->
+      Lightning Talk Prep / Raingular
+    </td>
+  </tr>
+</table>
+
+
 ## Week 9  - Vagabond && Project 2 
 <table>
   <tr>
