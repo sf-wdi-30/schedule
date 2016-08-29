@@ -29,7 +29,8 @@
       Project 2
     </td>
     <td> <!-- Week 10 - Friday Review -->
-      Happy Tree People
+      Happy Tree Friend
+      ![treefriend](https://cloud.githubusercontent.com/assets/4304660/18060601/00c6cf12-6dd4-11e6-8d97-8976edfb1740.jpg)
     </td>
   </tr>
   <tr>
