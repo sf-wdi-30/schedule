@@ -52,7 +52,7 @@
       Outcomes
     </td>
     <td> <!-- Week 10 - Friday Morning Module -->
-      Rails / JS Best Practices
+      <a href="https://github.com/sf-wdi-30/publify_debugging_lab">Legacy App Debugging Lab</a>
     </td>
   </tr>
   <tr>
