@@ -72,7 +72,7 @@
 
     </td>
     <td> <!-- Week 10 - Friday Afternoon / Weekend Lab -->
-      Raingular
+      <a href="https://github.com/sf-wdi-30/rspec_testing_inventory">Rspec Testing Inventory</a>
     </td>
   </tr>
   <tr>
@@ -95,7 +95,8 @@
 		Reading
     </td>
     <td> <!-- Week 10 - Friday -->
-      <a href="https://github.com/sf-wdi-30/rails-lightning-talks">Lightning Talk Prep</a> / Raingular
+      <a href="https://github.com/sf-wdi-30/rails-lightning-talks">Lightning Talk Prep</a> / 
+      <a href="https://github.com/sf-wdi-30/rspec_testing_inventory">Rspec Testing Inventory</a>
     </td>
   </tr>
 </table>
