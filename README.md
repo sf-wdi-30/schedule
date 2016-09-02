@@ -95,7 +95,7 @@
 		Reading
     </td>
     <td> <!-- Week 10 - Friday -->
-      Lightning Talk Prep / Raingular
+      <a href="https://github.com/sf-wdi-30/rails-lightning-talks">Lightning Talk Prep</a> / Raingular
     </td>
   </tr>
 </table>
