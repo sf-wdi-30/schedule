@@ -40,7 +40,7 @@
       Labor Day
     </td>
     <td> <!-- Week 10 - Tuesday Morning Module -->
-      Rspec Review
+      <a href="https://github.com/sf-wdi-30/tdd-roman-numerals">TDD Roman Numerals Lab</a>
     </td>
     <td> <!-- Week 10 - Wednesday Morning Module -->     
       Lightning Talks
