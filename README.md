@@ -60,7 +60,7 @@
       Labor Day
     </td>
     <td> <!-- Week 10 - Tuesday Afternoon Module -->      
-    	Lightning Talk Prep
+    	<a href="https://github.com/sf-wdi-30/lightning-talks">Lightning Talk Prep</a>
     </td>
     <td> <!-- Week 10 - Wednesday Afternoon Module -->
       Project 3
@@ -80,7 +80,7 @@
       Labor Day
     </td>
     <td> <!-- Week 10 - Tuesday Homework -->
-      Lightning Talk Prep
+      <a href="https://github.com/sf-wdi-30/lightning-talks">Lightning Talk Prep</a>
     </td>
     <td> <!-- Week 10 - Wednesday Homework -->
       Project 3
