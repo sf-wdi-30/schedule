@@ -3,6 +3,99 @@
 [How to request a personal Code Review](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md)
 
 
+## Week 11  - Intro to Project 3
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 10 - Monday Drill -->
+      Labor Day
+    </td>
+    <td> <!-- Week 10 - Tuesday Drill -->
+      Djikstra's Algorithm
+    </td>
+    <td> <!-- Week 10 - Wednesday Drill -->
+      Hash Maps
+    </td>
+    <td> <!-- Week 10 - Thursday Drill -->
+      Big O
+    </td>
+    <td> <!-- Week 10 - Friday Review -->
+      <!--<a href="">-->
+     Project 3
+     <!--</a>-->
+      
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 10 - Monday Morning Module -->
+      Labor Day
+    </td>
+    <td> <!-- Week 10 - Tuesday Morning Module -->
+      Rspec Review
+    </td>
+    <td> <!-- Week 10 - Wednesday Morning Module -->     
+      Lightning Talks
+    </td>
+    <td> <!-- Week 10 - Thursday Morning Module -->
+      Project 3
+    </td>
+    <td> <!-- Week 10 - Friday Morning Module -->
+      <!--<a href="">-->
+      Project 3
+      <!--</a>-->
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 10 - Monday Afternoon Module -->
+      Labor Day
+    </td>
+    <td> <!-- Week 10 - Tuesday Afternoon Module -->      
+    	Lightning Talks
+    </td>
+    <td> <!-- Week 10 - Wednesday Afternoon Module -->
+      Project 3
+    </td>
+    <td> <!-- Week 10 - Thursday Afternoon Module -->
+      Project 3
+    </td>
+    <td> <!-- Week 10 - Friday Afternoon / Weekend Lab -->
+      <!--<a href="">-->
+      Project 3
+      <!--</a>-->
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 10 - Monday Homework -->
+      Labor Day
+    </td>
+    <td> <!-- Week 10 - Tuesday Homework -->
+      Lightning Talk Prep
+    </td>
+    <td> <!-- Week 10 - Wednesday Homework -->
+      Project 3
+    </td>
+    <td> <!-- Week 10 - Thursday Homework -->
+	Project 3
+    </td>
+    <td> <!-- Week 10 - Friday -->
+      <!--<a href="">-->
+      Project 3
+      <!--</a>-->
+    </td>
+  </tr>
+</table>
+
 
 ## Week 10  - Project 2 
 <table>
@@ -39,14 +132,12 @@
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 10 - Monday Morning Module -->
       Project 2
-
     </td>
     <td> <!-- Week 10 - Tuesday Morning Module -->
       Project 2
-
     </td>
-    <td> <!-- Week 10 - Wednesday Morning Module -->      Project 2
-
+    <td> <!-- Week 10 - Wednesday Morning Module -->     
+      Project 2
     </td>
     <td> <!-- Week 10 - Thursday Morning Module -->
       Outcomes
@@ -59,7 +150,6 @@
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 10 - Monday Afternoon Module -->
       Project 2
-
     </td>
     <td> <!-- Week 10 - Tuesday Afternoon Module -->      Project 2
     </td>
