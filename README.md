@@ -43,7 +43,7 @@
       Rspec Review
     </td>
     <td> <!-- Week 10 - Wednesday Morning Module -->     
-      Lightning Talks
+      Lightning Talk Prep
     </td>
     <td> <!-- Week 10 - Thursday Morning Module -->
       Project 3
