@@ -22,7 +22,7 @@
       Djikstra's Algorithm
     </td>
     <td> <!-- Week 10 - Wednesday Drill -->
-      Hash Maps
+      <a href="https://github.com/sf-wdi-30/hash-map-lab">Hash Maps</a>
     </td>
     <td> <!-- Week 10 - Thursday Drill -->
       Big O
