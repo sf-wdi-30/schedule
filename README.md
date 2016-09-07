@@ -63,7 +63,7 @@
     	<a href="https://github.com/sf-wdi-30/lightning-talks">Lightning Talk Prep</a>
     </td>
     <td> <!-- Week 10 - Wednesday Afternoon Module -->
-      Project 3
+      <a href="https://github.com/sf-wdi-30/project-03">Project 3</a>
     </td>
     <td> <!-- Week 10 - Thursday Afternoon Module -->
       Project 3
