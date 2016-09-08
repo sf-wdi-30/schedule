@@ -25,7 +25,7 @@
       <a href="https://github.com/sf-wdi-30/hash-map-lab">Hash Maps</a>
     </td>
     <td> <!-- Week 10 - Thursday Drill -->
-      Big O
+      <a href="https://github.com/sf-wdi-30/big-o-notation">Big O</a>
     </td>
     <td> <!-- Week 10 - Friday Review -->
       <!--<a href="">-->
