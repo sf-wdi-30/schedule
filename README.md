@@ -45,6 +45,8 @@
       Project 3
     </td>
     <td> <!-- Week 10 - Thursday Morning Module -->
+      Outcomes
+      <hr />
       Project 3 Presentations
     </td>
     <td> <!-- Week 10 - Friday Morning Module -->
